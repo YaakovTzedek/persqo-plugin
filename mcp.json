@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "persqo": {
+      "url": "https://persqo.com/api/mcp"
+    }
+  }
+}

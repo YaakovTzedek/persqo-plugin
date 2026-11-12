@@ -1,0 +1,22 @@
+{
+  "name": "persqo",
+  "displayName": "Persqo",
+  "version": "1.0.0",
+  "description": "Run AI user-agents on your website or web app. Get findings, screenshots, and a fix prompt for each issue.",
+  "author": {
+    "name": "Persqo",
+    "email": "hello@persqo.com"
+  },
+  "homepage": "https://persqo.com",
+  "repository": "https://github.com/YaakovTzedek/persqo-plugin",
+  "license": "MIT",
+  "keywords": [
+    "persqo",
+    "testing",
+    "qa",
+    "mcp",
+    "usability",
+    "bug-report"
+  ],
+  "logo": "assets/logo.png"
+}
